@@ -28,6 +28,5 @@ int t;
         }
         cout << "\n";
     }
- // your code goes here
  return 0;
 }
